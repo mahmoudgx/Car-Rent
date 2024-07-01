@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import cars from "../assets/Cars.png";
 import cars2 from "../assets/Cars2.png";
 import "./Hero.css";
 
